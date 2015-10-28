@@ -1,0 +1,26 @@
+Testi 1 läpi. Testattiin arvolla -1 odotettiin tulosta: -1 saatiin: -1
+
+Testi 2 läpi. Testattiin arvolla 0 odotettiin tulosta: 0:00:00 saatiin: 0:00:00
+
+Testi 3 läpi. Testattiin arvolla 1 odotettiin tulosta: 0:00:01 saatiin: 0:00:01
+
+Testi 4 FAIL. Testattiin arvolla 32000 odotettiin tulosta: 8:53:20 saatiin: -1
+
+Testi 5 läpi. Testattiin arvolla 31999 odotettiin tulosta: 8:53:19 saatiin: 8:53:19
+
+Testi 6 läpi. Testattiin arvolla 60 odotettiin tulosta: 0:01:00 saatiin: 0:01:00
+
+Testi 7 läpi. Testattiin arvolla 59 odotettiin tulosta: 0:00:59 saatiin: 0:00:59
+
+Testi 8 läpi. Testattiin arvolla 3600 odotettiin tulosta: 1:00:00 saatiin: 1:00:00
+
+Testi 9 läpi. Testattiin arvolla 3599 odotettiin tulosta: 0:59:59 saatiin: 0:59:59
+
+Testi 10 FAIL. Testattiin arvolla 600 odotettiin tulosta: 0:10:00 saatiin: 0:010:00
+
+Testi 11 FAIL. Testattiin arvolla 32001 odotettiin tulosta: 8:53:21 saatiin: -1
+
+
+Testejä suoritettu: 11 kappaletta.
+Testejä läpi: 8
+Testejä fail: 3
